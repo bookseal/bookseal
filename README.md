@@ -94,25 +94,25 @@
 
 ### 🚀 Live AI Services
 
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| [**Bithabit**](https://github.com/bookseal/bithabit) | Habit tracking app — real users in production | Flutter · Dart · k3s infra | [bit-habit.com](https://bit-habit.com) · [Infra Repo](https://github.com/bookseal/bit-habit-infra) |
-| [**BookToss**](https://github.com/bookseal/Booktoss) | Autonomous LLM agent browsing closed library systems across Gangnam·Songpa·Seocho in <1s | LangGraph · Python · Streamlit · k3s | [booktoss.bit-habit.com](https://booktoss.bit-habit.com) |
-| [**Daily Seongsu**](https://github.com/bookseal/daily_seongsu) | Enterprise MLOps roadmap — 10-stage maturity model with automated data pipelines | MLOps · Feature Store · Pipeline · k3s | [daily-seongsu.bit-habit.com](https://daily-seongsu.bit-habit.com) |
-| [**Seoul APT Prediction**](https://github.com/bookseal/seoul-apt-price-prediction) | Interactive ML simulator: heuristics → AutoML, 10 hands-on steps | scikit-learn · Pandas · Plotly · Streamlit | [seoul-apt.bit-habit.com](https://seoul-apt.bit-habit.com) |
-| [**Bithumb AI Trade**](https://github.com/bookseal/Bithumb_AI_trade) | Automated Bitcoin trading via real-time market data & AI analysis | Python · Bithumb API | — |
-| [**Linear Algebra Viz**](https://github.com/bookseal/linear-algebra-visualization) | Interactive linear algebra concept visualizer | Python · Plotly | — |
+| Date | Project | Description | Stack | Links |
+|---|---|---|---|---|
+| 2026.03 | [**Bithabit**](https://github.com/bookseal/bithabit) | Habit tracking app — real users in production | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![k3s](https://img.shields.io/badge/k3s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | [bit-habit.com](https://bit-habit.com) |
+| 2026.03 | [**BookToss**](https://github.com/bookseal/Booktoss) | Autonomous LLM agent for library search | ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logo=langchain&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![k3s](https://img.shields.io/badge/k3s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | [booktoss.bit-habit.com](https://booktoss.bit-habit.com) |
+| 2026.03 | [**Daily Seongsu**](https://github.com/bookseal/daily_seongsu) | Enterprise MLOps roadmap & pipeline | ![MLOps](https://img.shields.io/badge/MLOps-000000?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![k3s](https://img.shields.io/badge/k3s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | [daily-seongsu.bit-habit.com](https://daily-seongsu.bit-habit.com) |
+| 2026.03 | [**Seoul APT Prediction**](https://github.com/bookseal/seoul-apt-price-prediction) | Interactive ML price prediction simulator | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | [seoul-apt.bit-habit.com](https://seoul-apt.bit-habit.com) |
+| 2025.05 | [**Bithumb AI Trade**](https://github.com/bookseal/Bithumb_AI_trade) | Data-driven Bitcoin trading bot | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![API](https://img.shields.io/badge/Bithumb_API-orange?style=flat-square) | — |
+| 2026.03 | [**Linear Algebra Viz**](https://github.com/bookseal/linear-algebra-visualization) | Linear algebra concept visualizer | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) | — |
 
 ### 🤖 AI Services — Progressively Built (2024–2025)
 
-| Project | Description | Stack | Links |
+| Date | Project | Description | Stack |
 |---|---|---|---|
-| [**munhaepang**](https://github.com/bookseal/munhaepang) | AI literacy learning platform for middle schoolers | Next.js · AI | — |
-| [**Snowball English**](https://github.com/bookseal/Snowball_English_Web_Service) | AI-powered English learning web service | HTML · AI | — |
-| [**The Foodies Guide to the Galaxy**](https://github.com/bookseal/The-Foodies-Guide-to-the-Galaxy) | AI food guide web app | HTML · AI | — |
-| [**eco-delivery**](https://github.com/bookseal/eco-delivery) | Eco-friendly AI delivery service | JavaScript | — |
-| [**careettalk**](https://github.com/bookseal/careettalk) | AI career coaching chat service (Firebase + Gemini) | JS · Firebase · Gemini | — |
-| [**thegreatyou**](https://github.com/bookseal/thegreatyou) | AI personal growth coaching service (Firebase + Gemini) | JS · Firebase · Gemini | — |
+| 2025.03 | [**munhaepang**](https://github.com/bookseal/munhaepang) | AI literacy platform for middle schoolers | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![AI](https://img.shields.io/badge/AI-purple?style=flat-square) |
+| 2025.03 | [**Snowball English**](https://github.com/bookseal/Snowball_English_Web_Service) | AI-powered English learning service | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![AI](https://img.shields.io/badge/AI-purple?style=flat-square) |
+| 2024.09 | [**The Foodies Guide**](https://github.com/bookseal/The-Foodies-Guide-to-the-Galaxy) | AI food guide web app | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![AI](https://img.shields.io/badge/AI-purple?style=flat-square) |
+| 2024.09 | [**eco-delivery**](https://github.com/bookseal/eco-delivery) | Eco-friendly AI delivery service | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 2024.08 | [**careettalk**](https://github.com/bookseal/careettalk) | AI career coaching (Firebase + Gemini) | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| 2024.08 | [**thegreatyou**](https://github.com/bookseal/thegreatyou) | AI personal growth coach (Firebase + Gemini) | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 
 ---
 
