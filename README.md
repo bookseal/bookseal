@@ -54,8 +54,11 @@
 
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_OCI-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **Networking & Security**
@@ -93,23 +96,23 @@
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **Bithabit** | Habit tracking app — real users in production | Flutter · Dart · k3s infra | [Repo](https://github.com/bookseal/bithabit) · [Infra](https://github.com/bookseal/bit-habit-infra) |
-| **BookToss** | Autonomous LLM agent browsing closed library systems across Gangnam·Songpa·Seocho in <1s | LangGraph · Python · Streamlit · k3s | [Service](https://booktoss.bit-habit.com) · [Repo](https://github.com/bookseal/Booktoss) |
-| **Daily Seongsu** | Enterprise MLOps roadmap — 10-stage maturity model with automated data pipelines | MLOps · Feature Store · Pipeline · k3s | [Service](https://daily-seongsu.bit-habit.com) · [Repo](https://github.com/bookseal/daily_seongsu) |
-| **Seoul APT Prediction** | Interactive ML simulator: heuristics → AutoML, 10 hands-on steps | scikit-learn · Pandas · Plotly · Streamlit | [Service](https://seoul-apt.bit-habit.com) · [Repo](https://github.com/bookseal/seoul-apt-price-prediction) |
-| **Bithumb AI Trade** | Automated Bitcoin trading via real-time market data & AI analysis | Python · Bithumb API | [Repo](https://github.com/bookseal/Bithumb_AI_trade) |
-| **Linear Algebra Viz** | Interactive linear algebra concept visualizer | Python · Plotly | [Repo](https://github.com/bookseal/linear-algebra-visualization) |
+| [**Bithabit**](https://github.com/bookseal/bithabit) | Habit tracking app — real users in production | Flutter · Dart · k3s infra | [bit-habit.com](https://bit-habit.com) · [Infra Repo](https://github.com/bookseal/bit-habit-infra) |
+| [**BookToss**](https://github.com/bookseal/Booktoss) | Autonomous LLM agent browsing closed library systems across Gangnam·Songpa·Seocho in <1s | LangGraph · Python · Streamlit · k3s | [booktoss.bit-habit.com](https://booktoss.bit-habit.com) |
+| [**Daily Seongsu**](https://github.com/bookseal/daily_seongsu) | Enterprise MLOps roadmap — 10-stage maturity model with automated data pipelines | MLOps · Feature Store · Pipeline · k3s | [daily-seongsu.bit-habit.com](https://daily-seongsu.bit-habit.com) |
+| [**Seoul APT Prediction**](https://github.com/bookseal/seoul-apt-price-prediction) | Interactive ML simulator: heuristics → AutoML, 10 hands-on steps | scikit-learn · Pandas · Plotly · Streamlit | [seoul-apt.bit-habit.com](https://seoul-apt.bit-habit.com) |
+| [**Bithumb AI Trade**](https://github.com/bookseal/Bithumb_AI_trade) | Automated Bitcoin trading via real-time market data & AI analysis | Python · Bithumb API | — |
+| [**Linear Algebra Viz**](https://github.com/bookseal/linear-algebra-visualization) | Interactive linear algebra concept visualizer | Python · Plotly | — |
 
 ### 🤖 AI Services — Progressively Built (2024–2025)
 
-| Project | Description | Year |
-|---|---|---|
-| **munhaepang** | AI literacy learning platform for middle schoolers | Next.js · AI | 2025 |
-| **Snowball English** | AI-powered English learning web service | HTML · AI | 2025 |
-| **The Foodies Guide to the Galaxy** | AI food guide web app | HTML · AI | 2024 |
-| **eco-delivery** | Eco-friendly AI delivery service | JavaScript | 2024 |
-| **careettalk** | AI career coaching chat service (Firebase + Gemini) | JS · Firebase · Gemini | 2024 |
-| **thegreatyou** | AI personal growth coaching service (Firebase + Gemini) | JS · Firebase · Gemini | 2024 |
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| [**munhaepang**](https://github.com/bookseal/munhaepang) | AI literacy learning platform for middle schoolers | Next.js · AI | — |
+| [**Snowball English**](https://github.com/bookseal/Snowball_English_Web_Service) | AI-powered English learning web service | HTML · AI | — |
+| [**The Foodies Guide to the Galaxy**](https://github.com/bookseal/The-Foodies-Guide-to-the-Galaxy) | AI food guide web app | HTML · AI | — |
+| [**eco-delivery**](https://github.com/bookseal/eco-delivery) | Eco-friendly AI delivery service | JavaScript | — |
+| [**careettalk**](https://github.com/bookseal/careettalk) | AI career coaching chat service (Firebase + Gemini) | JS · Firebase · Gemini | — |
+| [**thegreatyou**](https://github.com/bookseal/thegreatyou) | AI personal growth coaching service (Firebase + Gemini) | JS · Firebase · Gemini | — |
 
 ---
 
